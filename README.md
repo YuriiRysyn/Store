@@ -1,5 +1,6 @@
 # React App
 [DEMO LINK](https://YuriiRysyn.github.io/.../)
+[Figma Design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=0%3A1)
 
 
 # Project was created with:
@@ -8,6 +9,7 @@
 - React Hooks
 - React Router
 - Redux
+- Redux Thunk
 - LocalStorage
 - WebPack
 - HTML/CSS(Grid, BEM, SCSS)

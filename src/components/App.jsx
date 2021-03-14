@@ -13,7 +13,7 @@ const cssClasses = 'app app--active';
 function App () {
   return (
       <Header 
-        pathname={'dadada'}
+        pathname={''}
       />
 
   );

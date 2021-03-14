@@ -1,6 +1,6 @@
 # React App
-[DEMO LINK](https://YuriiRysyn.github.io/store/)
-[]
+[DEMO LINK](https://YuriiRysyn.github.io/Store/)
+[br]
 [Figma Design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=0%3A1)
 
 
